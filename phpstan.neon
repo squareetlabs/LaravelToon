@@ -1,0 +1,12 @@
+includes:
+  - phpstan-strict-rules.neon
+
+parameters:
+  level: 9
+  paths:
+    - src
+  ignoreErrors:
+    - '#Unsafe usage of new static#'
+  treatPhpDocTypesAsCertain: false
+  checkMissingCallableSignature: true
+
