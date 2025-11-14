@@ -8,6 +8,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-9%2B-orange?style=for-the-badge&logo=laravel)
 ![PHP](https://img.shields.io/badge/PHP-8.1%2B-blue?style=for-the-badge&logo=php)
 ![AI Ready](https://img.shields.io/badge/AI%20Ready-ChatGPT%2C%20Claude%2C%20Gemini%2C%20Mistral-success?style=for-the-badge)
+![Quality](https://img.shields.io/scrutinizer/quality/g/squareetlabs/LaravelToon)
 
 ---
 
