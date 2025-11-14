@@ -2,15 +2,14 @@
 
 **Token-Optimized Object Notation for Laravel**  Compress your AI prompts, reduce API costs, and optimize LLM contexts seamlessly.
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/squareetlabs/laravel-toon.svg?style=for-the-badge&color=blueviolet)](https://packagist.org/packages/squareetlabs/laravel-toon)
-[![Total Downloads](https://img.shields.io/packagist/dt/squareetlabs/laravel-toon.svg?style=for-the-badge&color=brightgreen)](https://packagist.org/packages/squareetlabs/laravel-toon)
-![License: MIT](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
-![Laravel](https://img.shields.io/badge/Laravel-9%2B-orange?style=for-the-badge&logo=laravel)
-![PHP](https://img.shields.io/badge/PHP-8.1%2B-blue?style=for-the-badge&logo=php)
-![AI Ready](https://img.shields.io/badge/AI%20Ready-ChatGPT%2C%20Claude%2C%20Gemini%2C%20Mistral-success?style=for-the-badge)
-![Quality](https://img.shields.io/scrutinizer/quality/g/squareetlabs/LaravelToon)
-
----
+<p align="center">
+<a href="https://scrutinizer-ci.com/g/squareetlabs/LaravelToon/"><img src="https://scrutinizer-ci.com/g/squareetlabs/LaravelToon/badges/quality-score.png?b=main" alt="Quality Score"></a>
+<a href="https://scrutinizer-ci.com/g/squareetlabs/LaravelToon/"><img src="https://scrutinizer-ci.com/g/squareetlabs/LaravelToon/badges/build.png?b=main" alt="Build Status"></a>
+<a href="https://scrutinizer-ci.com/g/squareetlabs/LaravelToon/"><img src="https://scrutinizer-ci.com/g/squareetlabs/LaravelToon/badges/code-intelligence.svg?b=main" alt="Code Intelligence"></a>
+<a href="https://packagist.org/packages/squareetlabs/laravel-toon"><img class="latest_stable_version_img" src="https://poser.pugx.org/squareetlabs/laravel-toon/v/stable" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/squareetlabs/laravel-toon"><img class="total_img" src="https://poser.pugx.org/squareetlabs/laravel-toon/downloads" alt="Total Downloads"></a> 
+<a href="https://packagist.org/packages/squareetlabs/laravel-toon"><img class="license_img" src="https://poser.pugx.org/squareetlabs/laravel-toon/license" alt="License"></a>
+</p>
 
 ##  Overview
 
