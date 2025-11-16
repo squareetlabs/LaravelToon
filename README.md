@@ -7,7 +7,6 @@
 <a href="https://scrutinizer-ci.com/g/squareetlabs/LaravelToon/"><img src="https://scrutinizer-ci.com/g/squareetlabs/LaravelToon/badges/build.png?b=main" alt="Build Status"></a>
 <a href="https://scrutinizer-ci.com/g/squareetlabs/LaravelToon/"><img src="https://scrutinizer-ci.com/g/squareetlabs/LaravelToon/badges/code-intelligence.svg?b=main" alt="Code Intelligence"></a>
 <a href="https://packagist.org/packages/squareetlabs/laravel-toon"><img class="latest_stable_version_img" src="https://poser.pugx.org/squareetlabs/laravel-toon/v/stable" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/squareetlabs/laravel-toon"><img class="total_img" src="https://poser.pugx.org/squareetlabs/laravel-toon/downloads" alt="Total Downloads"></a> 
 <a href="https://packagist.org/packages/squareetlabs/laravel-toon"><img class="license_img" src="https://poser.pugx.org/squareetlabs/laravel-toon/license" alt="License"></a>
 </p>
 
